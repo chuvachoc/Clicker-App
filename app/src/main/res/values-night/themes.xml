@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ClickerApp.Dark" parent="Base.Theme.ClickerApp">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>
